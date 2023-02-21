@@ -1,2 +1,3 @@
-# fonts
-와핑서비스에서 이용하는 폰트 입니다.
+This is a collection of fonts used in the Waping Service.
+We plan to continuously add fonts, and there is no license for fonts.
+License Inquiries: http://scripts.sil.org/OFL
